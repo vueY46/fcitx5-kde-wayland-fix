@@ -1,4 +1,4 @@
-# KDE Plasma 6 Wayland 下修复 Electron 应用（Chromium / VS Code）无法使用 fcitx5 输入中文
+# Arch Linux KDE Plasma 6 Wayland 下 Chromium / VS Code 等 Electron 应用无法使用 fcitx5 输入中文的终极修复指南
 
 ## 问题表现
 
